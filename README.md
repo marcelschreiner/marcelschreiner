@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Marcel Schreiner, and I'm passionate about the world of electrical engineering and software development. With over a decade of experience, I've worked in both hardware and software, specializing in areas such as building automation, electromobility, and renewable energy.
+
+![](https://komarev.com/ghpvc/?username=marcelschreiner)
