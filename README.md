@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Marcel Schreiner 👋
 
 <!--
 **marcelschreiner/marcelschreiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Marcel Schreiner, and I'm passionate about the world of electrical engineering and software development. With over a decade of experience, I've worked in both hardware and software, specializing in areas such as building automation, electromobility, and renewable energy.
+My passion for electrical engineering has been with me for over a decade. Starting with hardware development to more and more software, I still feel at home in both areas. In my free time I deal with topics such as building automation, electromobility and renewable energy.
 
 ![](https://komarev.com/ghpvc/?username=marcelschreiner)
