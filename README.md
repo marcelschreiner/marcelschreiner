@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My passion for electrical engineering has been with me for over a decade. Starting with hardware development to more and more software, I still feel at home in both areas. In my free time I deal with topics such as building automation, electromobility and renewable energy.
+I'm a swiss embedded electronics and software engineer. For over a decade, my passion for electrical engineering has been a constant companion. Starting in hardware development and gradually moving into almost exclusively software development, I still feel at home in both areas. In my free time, I engage with topics such as building automation, electromobility, and renewable energy.
 
 ![](https://komarev.com/ghpvc/?username=marcelschreiner)
